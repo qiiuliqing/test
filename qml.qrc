@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>images/ln2.png</file>
+        <file>images/temp-a.png</file>
+        <file>images/temp-b.png</file>
+        <file>images/alarm-gray.png</file>
+        <file>images/battery-25.png</file>
+        <file>images/freezer-location-1.png</file>
+        <file>images/freezer-status.png</file>
+        <file>images/ln2-graph.png</file>
+        <file>images/login.png</file>
+        <file>images/main-manu-alarms.png</file>
+        <file>images/main-manu-logs.png</file>
+        <file>images/main-manu-settings.png</file>
+        <file>images/settings-temperature.png</file>
+        <file>images/status.png</file>
+        <file>images/wifi-network-4.png</file>
+        <file>images/info-small.png</file>
+        <file>images/mve-logo.png</file>
+        <file>images/Montserrat-Medium.otf</file>
+        <file>images/information.png</file>
+        <file>images/menu.png</file>
+    </qresource>
+</RCC>
